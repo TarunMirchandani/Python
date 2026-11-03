@@ -28,3 +28,13 @@ The Python interpreter reads a source file and translates it into machine-readab
    ```bash
    python main.py
    ```
+## 🧩 Core Concepts & Roadmap
+As you progress through the course, you will build on the foundations by exploring these critical topics:
+
+* **Conditionals:** Execute specific blocks of code based on true/false boolean tests.
+* **Loops:** Repeat actions a set number of times or while a specific condition holds true.
+* **Exceptions:** Handle runtime errors gracefully using `try` and `except` blocks to prevent crashes.
+* **Libraries:** Import and reuse third-party code modules to avoid reinventing the wheel.
+* **Unit Tests:** Write automated tests that verify your individual code functions work exactly as intended.
+* **File I/O:** Read from and write data to files for persistent storage between program runs.
+* **Regular Expressions:** Define precise search patterns to validate, clean, or extract text data.
